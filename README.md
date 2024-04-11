@@ -1,4 +1,4 @@
-<h1> Linear Regression Health Costs Calculator- ML Python Project</h1>
+<h1> Linear Regression Health Costs Calculator - ML Python Project</h1>
 <br>
 <h2>Features</h2>
 <li>Convert categorical data to numbers</li>
